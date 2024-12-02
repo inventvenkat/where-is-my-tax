@@ -1,0 +1,16 @@
+An open source project, where we shall be able to see where every tax penny is being spent. This will collect all the data of tax, to start from Tax paid by every citizen from income to the spendings on purchases. Plus it should also be able to include the loan we get from global banks. 
+
+What does it solve? - I am sure, every citizen in India is paying tax everyday and gets frustrated by the returns he gets from the government. It either makes the citizen understand that it needs a lot of money to solve the problems or brings out information about corruption and helps to stop it. 
+
+Why open source? - I believe this project has to be on market soon, and we have a lot of talented IT engineers out there and with us together, we can achieve the goal faster. Government also can’t ignore this project, because it would be adopted by every citizen and government is for the people. 
+
+A scenario,
+Let’s take a road project taken up by a private firm on tender with government. Now Government should ask to upload all the details of the expenditure the private firm is spending on this software.
+
+Details should include the following, 
+
+- Money spent on all the resources including the human resource(salary given to every person worked on the project).
+- GST number of the businesses from whom the resources are purchased.
+- Quality test report.
+
+This actually tells us how much money is spent on every resource, where they are buying from, which defines the quality of the resource. This also helps in identifying incase of corruption.
